@@ -1,7 +1,3 @@
-Here’s an updated README that includes the **Introduction** section:
-
----
-
 # Domestic Car Accident Severity Prediction Project
 
 This project aims to predict the severity of car accidents in the United States based on various factors. Using statistical and machine learning approaches, the project explores the factors influencing accident severity and assesses the performance of various predictive models to aid in promoting safer driving behaviors.
