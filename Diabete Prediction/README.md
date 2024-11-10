@@ -1,7 +1,3 @@
-Based on the detailed breakdown in the notebook, here’s an enhanced README with more specific descriptions for each part of the project:
-
----
-
 # Diabetes Prediction Project
 
 This project explores machine learning methods for predicting diabetes using a comprehensive medical dataset. The project includes both supervised and unsupervised techniques, aiming to provide insights into diabetes diagnosis based on various health indicators.
